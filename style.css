@@ -1,0 +1,298 @@
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dokdo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+
+
+body {
+    margin: 0px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+xmp {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.albr {
+    height: 101%
+}
+
+.drgx {
+    -ms-user-select: none; 
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+.clk {
+    cursor: pointer;
+}
+
+.nnsk {
+    font-family: 'NanumSquare', sans-serif !important;
+}
+
+.nnpn {
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+.bmja {
+    font-family: 'Jua', sans-serif;
+}
+
+.gnsr {
+    font-family: '궁서'
+}
+
+.btan {
+    font-family: '바탕';
+}
+
+.dodm {
+    font-family: '돋움';
+}
+
+.myzo {
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.gotc {
+    font-family: '고딕';
+}
+
+.dcdo {
+    font-family: 'Dokdo', cursive;
+}
+
+.nngt {
+    font-family: 'Nanum Gothic', Droid Serif !important;
+}
+
+.sida {
+    font-family: 'Single Day', cursive;
+}
+
+.nnbr {
+    font-family: 'Nanum Brush Script', cursive;
+}
+
+.ttl{
+    line-height: 75px;
+    width: screen;
+    height: 75px;
+    background: #4f80ff;
+    text-align: center;
+    font-size: 26px;
+    color: white;
+    -ms-user-select: none; 
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+.end{
+    line-height: 40px;
+    width: screen;
+    height: 40px;
+    background: black;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    -ms-user-select: none; 
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    margin-top: 20px;
+}
+
+input {
+    height: 31px;
+    border: 1px solid #4f80ff;
+    border-radius: 5px;
+}
+
+button {
+    font-family: 'NanumSquare', sans-serif !important;
+    transition: 0.25s;
+    color: #4f80ff;
+    background-color: #4f80ff;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #4f80ff;
+    padding: 7px;
+    font-size: 17px;
+}
+
+button:hover {
+    transition: 0.25s;
+    color: white;
+    background-color: white;
+    color: #4f80ff;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 17px;
+    border: 1px solid #4f80ff;
+    cursor: pointer;
+}
+
+.line{
+    margin: 50 0 50 0px;
+    width: screen;
+    height: 1px;
+    background: black;
+    text-align: left;
+}
+
+select {
+    transition: 0.25s;
+    color: black;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 17;
+    border: 1px solid white;
+}
+
+select:hover {
+    transition: 0.25s;
+    color: white;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 17;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+option {
+    background-color: black;
+    color: white;
+}
+
+img {
+    border-radius: 5px;
+}
+
+blockquote {
+    margin: 10px;
+    line-height: 90px;
+    width: screen;
+    height: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background: black;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+    line-height:100px;
+    -ms-user-select: none; 
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+.prpl {
+    border-radius: 40%;
+    cursor: pointer;
+}
+
+hr {
+    background-color: gray;
+    border: 0;
+    height: 1px;
+    margin: 40 0 40 0px;
+}
+
+.stmp {
+    line-height: 55px;
+    width: screen;
+    height: 55px;
+    background: white;
+    font-size: 25px;
+    color: black;
+    border-bottom: 1px solid rgb(189, 189, 189);
+    padding-left: 20px;
+    box-shadow: 0px 4px 5px rgb(238, 238, 238);
+    -ms-user-select: none; 
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 600;
+}
+h2 {
+    font-size: 40px;
+    font-weight: 550;
+}
+h3 {
+    font-size: 30px;
+    font-weight: 540;
+}
+h4 {
+    font-size: 25px;
+    font-weight: 530;
+}
+h5 {
+    font-size: 20px;
+    font-weight: 520;
+}
+h6 {
+    font-size: 18px;
+    font-weight: 510;
+}
+p {
+    font-size: 16px;
+}
+
+
+.sdw {
+    box-shadow: 0px 10px 10px rgb(238, 238, 238);
+}
+
+iframe {
+    border: 0px;
+    border-radius: 5px;
+    width: 300px;
+    height: 168px;
+    margin-left: 50px;
+}
